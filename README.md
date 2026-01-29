@@ -539,7 +539,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 ##### 🌐Portfólio e contato profissional:
-📚 [Medium](https://medium.com/@atom.free)
+📚 [Medium](https://medium.com/@atom.freedom)
 
 💬 [Linkedin](https://www.linkedin.com/in/7iago-m-4a330b1bb/)
 #
