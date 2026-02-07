@@ -147,7 +147,7 @@ Veremos os seguintes temas:
 #
 #### [↩️](#-menu)
 #
-## Teste Funcional:
+## 1º Teste Funcional:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
    - BDD;
