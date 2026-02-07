@@ -5,6 +5,7 @@
 
 [🔍**Sobre mim**](#-qa-engineer-em-construção--foco-em-shift-left--automação)
 [🔍**Projetos**](#projetos)
+[🔍**CTFL**](#ctfl-istqbbstqb-v40)
 [🔍**Meus Artigos QA**](#-documentação-do-meu-aprendizado-%E2%80%8D)
 [🔍**Mais Programação**](#mais-programação)
 [🔍**Linux**](#linux-e-aws)
@@ -74,6 +75,21 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 #
 # Projetos: 
+
+## CTFL (ISTQB/BSTQB) v4.0
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [CTFL (ISTQB/BSTQB) v4.0 — **Objetivos do Teste**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-afb1f486e847?postPublishedType=repub)
+ 
+</details>
+
+#
+#
+
 ## Testando APIs com Postman:
 ![JavaScript10](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
 
