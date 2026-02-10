@@ -104,7 +104,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 #
 
-# Testes contínuos em Cypress no Github Actions
+# Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
 
 ![GitHubActions](https://api.devicons.dev.br/icon?icons=Git%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
 
