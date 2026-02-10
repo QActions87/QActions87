@@ -18,7 +18,7 @@
 #
 #
 ### 🛠 Principais Ferramentas com as quais trabalhei 🛠:
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGherkin%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CGithubActions%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGherkin%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
 #
 
