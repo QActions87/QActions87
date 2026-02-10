@@ -103,6 +103,23 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 #
+
+# Testes contínuos em Cypress no Github Actions
+
+![GitHubActions](https://api.devicons.dev.br/icon?icons=Git%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — I**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-i-fa8ccdefd17c)
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — II**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-ii-67ba9bb67fb4?postPublishedType=initial)
+- **Repositório** [repo](https://github.com/Motatom0101/cypress-github-actions/actions/runs/21057122162/job/60555446636)
+
+</details>
+
 #
 ## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
 ![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
