@@ -102,9 +102,10 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
 
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
-#
 
-# Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
+#
+#
+## Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
 
 ![GitHubActions](https://api.devicons.dev.br/icon?icons=Git%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
 
@@ -120,6 +121,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 </details>
 
+#
 #
 ## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
 ![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
@@ -147,6 +149,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #### [↩️](#-menu)
 #
+#
 ## JavaScript Puro Completo:
 ![JavaScript13](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
 
@@ -163,6 +166,7 @@ Veremos os seguintes temas:
 #
 #### [↩️](#-menu)
 #
+#
 ## 1º Teste Funcional:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
@@ -176,6 +180,7 @@ Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e e
 #
 #### [↩️](#-menu)
 #
+#
 ## Plano de Testes:
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
 
@@ -187,6 +192,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 #
 #### [↩️](#-menu)
 #
+#
 ## Abertura, Gerenciamento e Rastreio de Bugs:
  - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
  
@@ -195,6 +201,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 
 #
 #### [↩️](#-menu)
+#
 #
 ## Epics, User Story e Tasks no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
@@ -226,6 +233,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 
 #
 #### [↩️](#-menu)
+#
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais:
@@ -289,6 +297,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #### [↩️](#-menu)
 #
+#
 # Mais Programação:
 ## Python - Lógica de Programação & POO:
 
@@ -319,6 +328,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #### [↩️](#-menu)
 #
+#
 ## Python & Selenium:
 ![JavaScript15](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
 
@@ -337,6 +347,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 #
 #### [↩️](#-menu)
+#
 #
 ## Python, Postman e API:
 ![JavaScript16](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
@@ -361,6 +372,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 #
 #### [↩️](#-menu)
+#
 #
 ## Python e AWS:
 ![JavaScript17](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
@@ -387,6 +399,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #### [↩️](#-menu)
 #
+#
 ## Java: 
 ![Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
 
@@ -403,6 +416,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 #
 #### [↩️](#-menu)
+#
 #
 ## Linux e AWS: 
 ![JavaScript18](https://api.devicons.dev.br/icon?icons=Linux%2CAWS&size=48&theme=light&perline=30)
@@ -438,6 +452,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #### [↩️](#-menu)
 #
+#
 ## Git/GitHub:
 ![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
 
@@ -471,6 +486,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #### [↩️](#-menu)
 #
+#
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
 ![JavaScript199](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
 
@@ -499,6 +515,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #### [↩️](#-menu)
 #
+#
 ## Redes e Monitoramento (Zabbix):
 
 <details>
@@ -523,6 +540,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 #
 #### [↩️](#-menu)
+#
 #
 # 📚 Principais cursos que realizei:
 
