@@ -116,9 +116,9 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </summary>
 <a name="Expandir documento"></a>
  
-- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — I**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-i-fa8ccdefd17c)
-- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — II**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-ii-67ba9bb67fb4?postPublishedType=initial)
-- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — III: Pipeline multi-brower**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-iii-pipeline-multi-brower-2ed1060e07d9)
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — I: Introdução ao GitHub Actions.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-i-fa8ccdefd17c)
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — II: Integrando com Cypress Cloud.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-ii-67ba9bb67fb4?postPublishedType=initial)
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — III: Pipeline multi-brower.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-iii-pipeline-multi-brower-2ed1060e07d9)
 - [**Repositório**](https://github.com/QActions87/cypress-github-actions/actions)
 
 </details>
