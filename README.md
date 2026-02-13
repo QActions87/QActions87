@@ -29,7 +29,6 @@ Apesar de ter começado a publicar meu aprendizado apenas em 2024, comecei a est
 
 Levei um tempo até entender em qual área da tecnologia eu me encaixo melhor. Contudo, hoje tenho certeza do que quero. Meu objetivo é **garantir a qualidade e prevenir defeitos o mais cedo possível** no Software Development Life Cycle **(SDLC)**, trabalhando ativamente com o time, o PO e o Product Backlog em ambientes ágeis (Scrum).
 
-**Este repositório** serve como meu **Portfólio Técnico**, onde demonstro minha aplicação prática dos conhecimentos adquiridos.
 #
 #
 ## 🎯 Meus Pilares de Conhecimento e Estudo
