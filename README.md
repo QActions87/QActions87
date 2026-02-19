@@ -552,6 +552,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
  <a>Expandir documento</a>
 </summary>
 <a name="Expandir documento"></a>
+
+- [**Testes contínuos** em **Cypress** no **Github Actions** e **Cypress Cloud**](https://www.udemy.com/certificate/UC-40245d82-7738-404c-97ed-3671a3a8689b/)
  
 - [Automação Web - **Cypress e Cucumber**](https://www.udemy.com/certificate/UC-fe0754ca-d26a-4fdf-84b3-51f9136cbabc/)
 
