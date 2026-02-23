@@ -82,6 +82,8 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 <a name="Expandir documento"></a>
  
 - [CTFL (ISTQB/BSTQB) v4.0 — **Objetivos do Teste**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-afb1f486e847?postPublishedType=repub)
+
+- [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial) 
  
 </details>
 
