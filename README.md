@@ -126,6 +126,40 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 #
 #
+## Git/GitHub:
+![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
+
+- [Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
+
+- [Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
+  
+- [Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
+
+- [Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
+
+- [Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
+
+- [Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
+
+- [Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
+
+- [Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
+
+</details>
+
+
+#
+#### [↩️](#-menu)
+#
+#
 ## 1º Teste Funcional:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
@@ -469,40 +503,6 @@ Veremos os seguintes temas:
 - [Linux-9: Liberando acesso remoto root.](https://medium.com/@atom.free/liberando-acesso-remoto-do-usu%C3%A1rio-root-a3be7681796b)
 
 </details>
-
-#
-#### [↩️](#-menu)
-#
-#
-## Git/GitHub:
-![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
-
-- [Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
-
-- [Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
-  
-- [Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
-
-- [Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
-
-- [Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
-
-- [Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
-
-- [Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
-
-- [Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
-
-</details>
-
 
 #
 #### [↩️](#-menu)
