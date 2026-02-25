@@ -91,14 +91,14 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 
 ## Testando APIs com Postman:
-![JavaScript10](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
+![JavaScript10](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript&size=48&theme=light&perline=30)
 
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 #
 #### [↩️](#-menu)
 #
 ## Automação de teste Web (UI) Com Cypress, JavaScript e Cucumber (gherkin):
-![JavaScript11](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
+![JavaScript11](https://api.devicons.dev.br/icon?icons=Linux%2CCypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
 
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
 
@@ -109,7 +109,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 ## Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
 
-![GitHubActions](https://api.devicons.dev.br/icon?icons=Git%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
+![GitHubActions](https://api.devicons.dev.br/icon?icons=Linux%2CGit%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
