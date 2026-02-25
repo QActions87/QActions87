@@ -206,6 +206,24 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #### [↩️](#-menu)
 #
 #
+## Análise de Requisitos de Software com Histórias de Usuários
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Análise de Requisitos de Software com Histórias de Usuários**](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53?postPublishedType=repub)
+- [**MIRO - Exemple Mappgin: 1 - Cadastro de Usuário:**](https://miro.com/app/board/uXjVG7SqLIQ=/?share_link_id=320655018935)
+- [**MIRO - Exemple Mappgin: 2 - Autenticação de Usuário:**](https://miro.com/app/board/uXjVG7cgm0I=/?share_link_id=800130432112)
+- [**MIRO - Exemple Mappgin: 3 - Publicando Anúncio Gratuito:**](https://docs.google.com/document/d/1mFAgKXw1pMygibzk0jn47fghRkOzaJb30F0FQrImhbQ/edit?tab=t.0)
+- [**MIRO - Exemple Mappgin: 4 - Publicando Anúncio Pago:**](https://miro.com/app/board/uXjVG6oXDRk=/?share_link_id=254091452541)
+
+ 
+</details>
+
+#
+#
 ## Epics, User Story e Tasks no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
 #
@@ -554,6 +572,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
  <a>Expandir documento</a>
 </summary>
 <a name="Expandir documento"></a>
+
+- [**Análise de Requisitos de Software com Histórias de Usuários**](https://www.udemy.com/certificate/UC-29848871-7688-41f3-8964-312740b80d56/)
 
 - [**Testes contínuos** em **Cypress** no **Github Actions** e **Cypress Cloud**](https://www.udemy.com/certificate/UC-40245d82-7738-404c-97ed-3671a3a8689b/)
  
