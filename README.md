@@ -126,33 +126,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 #
 #
-## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
-![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [JavaScript Para QA — Parte 1: **Introdução ao DOM, JS, HTML e CSS**](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
-
-- [JavaScript para QAs -Parte 2: **Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções**](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
-
-- [JavaScript para QAs -Parte 3: **BDD na prática com controle de fluxo**](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
-  
-- [Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
-
-- **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
-
-</details>
-
-
-
-#
-#### [↩️](#-menu)
-#
-#
 ## 1º Teste Funcional:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
@@ -305,6 +278,31 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 # Mais Programação:
+## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
+![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [JavaScript Para QA — Parte 1: **Introdução ao DOM, JS, HTML e CSS**](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
+
+- [JavaScript para QAs -Parte 2: **Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções**](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
+
+- [JavaScript para QAs -Parte 3: **BDD na prática com controle de fluxo**](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
+  
+- [Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
+
+- **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
+
+</details>
+
+#
+#### [↩️](#-menu)
+#
+#
 ## JavaScript Puro Completo:
 ![JavaScript13](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
 
