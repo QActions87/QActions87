@@ -153,23 +153,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #### [↩️](#-menu)
 #
 #
-## JavaScript Puro Completo:
-![JavaScript13](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
-
-🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
-Veremos os seguintes temas:
-
- - **Lógica de Programação**;
- - **Orientação a Objetos**;
- - **Fundamentos de JavaScript Funcional**[Cod3r];
- - **JavaScript moderno**;
- - **Códigos documentados** (comentários enxutos e explicativos).
-# 
-
-#
-#### [↩️](#-menu)
-#
-#
 ## 1º Teste Funcional:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
@@ -322,6 +305,23 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 # Mais Programação:
+## JavaScript Puro Completo:
+![JavaScript13](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
+
+🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
+Veremos os seguintes temas:
+
+ - **Lógica de Programação**;
+ - **Orientação a Objetos**;
+ - **Fundamentos de JavaScript Funcional**[Cod3r];
+ - **JavaScript moderno**;
+ - **Códigos documentados** (comentários enxutos e explicativos).
+# 
+
+#
+#### [↩️](#-menu)
+#
+#
 ## Python - Lógica de Programação & POO:
 
 ![JavaScript14](https://api.devicons.dev.br/icon?icons=Linux%2CPython&size=48&theme=light&perline=30)
