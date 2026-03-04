@@ -257,6 +257,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 </summary>
 <a name="Expandir documento"></a>
 
+- [**ISO 25010 & 29119**](https://medium.com/p/25d79172f153?postPublishedType=initial)
+
 - [**SDLC + DevOps**](https://medium.com/p/0db329411bbf?postPublishedType=initial)
  
 - [**POM (Page Object Model)**](https://medium.com/@atom.free/pom-page-object-model-cec4c7d7d6b9)
