@@ -123,6 +123,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 
 #
+#### [↩️](#-menu)
 #
 
 ## Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
@@ -143,6 +144,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </details>
 
 #
+#### [↩️](#-menu)
 #
 ## Git/GitHub:
 ![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
@@ -231,6 +233,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 </details>
 
 #
+#### [↩️](#-menu)
 #
 ## Epics, User Story e Tasks no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
