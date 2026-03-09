@@ -88,6 +88,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </details>
 
 #
+#### [↩️](#-menu)
 #
 
 ## CTFL (ISTQB/BSTQB) v4.0
@@ -104,6 +105,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </details>
 
 #
+#### [↩️](#-menu)
 #
 
 ## Testando APIs com Postman:
