@@ -80,7 +80,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </summary>
 <a name="Expandir documento"></a>
  
-- [**Diferença** entre a **ISO 25010 e a 29119**?](https://medium.com/@atom.freedom/o-o-qu%C3%AA-vs-o-como-voc%C3%AA-sabe-a-diferen%C3%A7a-entre-a-iso-25010-e-a-29119-25d79172f153)
+- [**Diferença** entre a **ISO 25010 e a 29119**](https://medium.com/@atom.freedom/o-o-qu%C3%AA-vs-o-como-voc%C3%AA-sabe-a-diferen%C3%A7a-entre-a-iso-25010-e-a-29119-25d79172f153)
 
 - [Modelo de Qualidade de Software — **ISO 25010**](https://medium.com/@atom.freedom/modelo-de-qualidade-de-software-iso-25010-a822a8bdd571?postPublishedType=initial) 
  
