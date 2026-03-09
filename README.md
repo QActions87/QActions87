@@ -277,6 +277,12 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
  <a>Expandir documento</a>
 </summary>
 <a name="Expandir documento"></a>
+ 
+- [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial)
+
+- [CTFL (ISTQB/BSTQB) v4.0 — **Objetivos do Teste**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-afb1f486e847?postPublishedType=repub)
+
+- [Modelo de Qualidade de Software — **ISO 25010**](https://medium.com/@atom.freedom/modelo-de-qualidade-de-software-iso-25010-a822a8bdd571?postPublishedType=initial)
 
 - [**ISO 25010 & 29119**](https://medium.com/p/25d79172f153?postPublishedType=initial)
 
