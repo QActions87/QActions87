@@ -74,7 +74,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 #
 # Projetos: 
-## ISO 25010
+## Modelo de Qualidade de Software — ISO 25010
 <details>
 <summary>               
  <a>Expandir documento</a>
