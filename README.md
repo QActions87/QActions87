@@ -107,6 +107,21 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #### [↩️](#-menu)
 #
+## Estratégia e Técnicas de Testes de Software
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Estratégia e Técnicas** de **Testes de Software**](https://medium.com/@atom.freedom/estrat%C3%A9gia-e-t%C3%A9cnicas-de-testes-de-software-1132db48e66f) 
+ 
+</details>
+
+#
+#### [↩️](#-menu)
+#
+
 
 ## Testando APIs com Postman:
 ![JavaScript10](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript&size=48&theme=light&perline=30)
@@ -277,6 +292,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
  <a>Expandir documento</a>
 </summary>
 <a name="Expandir documento"></a>
+
+- [**Estratégia e Técnicas** de **Testes de Software**](https://medium.com/@atom.freedom/estrat%C3%A9gia-e-t%C3%A9cnicas-de-testes-de-software-1132db48e66f) 
  
 - [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial)
 
