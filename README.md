@@ -107,7 +107,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #### [↩️](#-menu)
 #
-## Estratégias e Técnicas de Testes de Software
+## Estratégia e Técnicas de Testes de Software
 <details>
 <summary>               
  <a>Expandir documento</a>
