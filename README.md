@@ -293,6 +293,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 </summary>
 <a name="Expandir documento"></a>
 
+- [Introdução as **APIs** & **Arquitetura REST**](https://medium.com/@atom.freedom/introdu%C3%A7%C3%A3o-as-apis-arquitetura-rest-33c83159ba6f)
+
 - [**Estratégia e Técnicas** de **Testes de Software**](https://medium.com/@atom.freedom/estrat%C3%A9gia-e-t%C3%A9cnicas-de-testes-de-software-1132db48e66f) 
  
 - [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial)
