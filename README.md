@@ -36,9 +36,9 @@ Levei um tempo até entender em qual área da tecnologia eu me encaixo melhor. C
 Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas nos projetos deste perfil:
 
 ### 1. Qualidade de Software & Metodologias
- - **Fundamentos QA:** Fundamentos de Teste de Software, Testes Manuais, Tipos de Teste, Ciclo de Vida do Software (**SDLC**).
+ - **Fundamentos QA:** Fundamentos de Teste de Software, ISO-25010, Testes Manuais, Técnicas de Teste, Ciclo de Vida do Software (**SDLC**).
 
- - **Requisitos e Escopo:** Análise de Requisitos, Critérios Aceite, Regras de Negócio, Elaboração de User Stories e linguagem **Gherkin**.
+ - **Requisitos e Escopo:** Análise de Requisitos, Critérios de Aceite, Regras de Negócio, Elaboração de User Stories e linguagem **Gherkin**.
 
  - **Gestão:** Criação de **Plano de Testes**, **Gerenciamento e Documentação de Bugs** utilizando **Excel**.
 
