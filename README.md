@@ -619,6 +619,8 @@ Veremos os seguintes temas:
 </summary>
 <a name="Expandir documento"></a>
 
+- [Como Dominar a **Qualidade do Software** do Início ao Fim](https://www.udemy.com/certificate/UC-ca96743a-bf01-4ecc-a252-54b574432db6/)
+
 - [**Análise de Requisitos de Software com Histórias de Usuários**](https://www.udemy.com/certificate/UC-29848871-7688-41f3-8964-312740b80d56/)
 
 - [**Testes contínuos** em **Cypress** no **Github Actions** e **Cypress Cloud**](https://www.udemy.com/certificate/UC-40245d82-7738-404c-97ed-3671a3a8689b/)
