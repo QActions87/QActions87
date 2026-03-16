@@ -611,7 +611,7 @@ Veremos os seguintes temas:
 #### [↩️](#-menu)
 #
 #
-# 📚 Principais cursos que realizei:
+# 📚 Principais cursos que realizei (certificados):
 
 <details>
 <summary>               
