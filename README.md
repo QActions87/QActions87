@@ -26,7 +26,7 @@
 ## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
 Sou um apaixonado por tecnologia, **autodidata** e profissional QA Engineer em construção. Desde o começo de 2025 em formação intensiva para me tornar um QA (Quality Assurance) Engineer com a filosofia **Shift Left**. 
 
-Apesar de ter começado a publicar meu aprendizado apenas em 2024, comecei a estudar tecnologia bem antes de 2020. Alias, já havia tentado aprender **Linux, redes** e **Java** pela 1ª vez em 2017. Mas, percebi que eu teria que aprender muita coisa antes - e eis que entrei pela toca. 
+Apesar de ter começado a publicar meu aprendizado apenas em 2024, comecei a estudar tecnologia bem antes de 2020. Alias, já havia tentado aprender **Linux, redes** e **Java** pela 1ª vez em 2017. Mas, percebi que eu teria que aprender muita coisa antes - e eis que entrei pela toca do coelho. 
 
 Levei um tempo até entender em qual área da tecnologia eu me encaixo melhor. Contudo, hoje tenho certeza do que quero. Meu objetivo é **garantir a qualidade e prevenir defeitos o mais cedo possível** no Software Development Life Cycle **(SDLC)**, trabalhando ativamente com o time, o PO e o Product Backlog em ambientes ágeis (Scrum).
 
