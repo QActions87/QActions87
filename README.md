@@ -238,7 +238,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 </summary>
 <a name="Expandir documento"></a>
  
-- [Artigo: **Análise de Requisitos de Software com Histórias de Usuários**](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53?postPublishedType=repub)
+- [Artigo: **Análise de Requisitos de Software com Histórias de Usuário**](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53?postPublishedType=repub)
 - [**MIRO - Exemple Mappgin: 1 - Cadastro de Usuário:**](https://miro.com/app/board/uXjVG7SqLIQ=/?share_link_id=320655018935)
 - [**MIRO - Exemple Mappgin: 2 - Autenticação de Usuário:**](https://miro.com/app/board/uXjVG7cgm0I=/?share_link_id=800130432112)
 - [**MIRO - Exemple Mappgin: 3 - Publicando Anúncio Gratuito:**](https://miro.com/app/board/uXjVG6pviug=/?share_link_id=82510314114)
@@ -250,7 +250,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #
 #### [↩️](#-menu)
 #
-## Epics, User Story e Tasks no Scrum:
+## Épicos, Histórias de Usuário e Tarefas no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
 #
  -  2º Artigo - [Modelo 3C e Personas em User story](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49): Neste artigo vamos falar um pouco sobre o Modelo 3C, que é uma estrutura simples e eficaz, usada para criar e avaliar User Stories no contexto do Scrum. Além disso, vamos falar sobre o uso de “Personas” e do “Mapa de Empatia”.
