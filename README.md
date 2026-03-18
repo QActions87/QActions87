@@ -231,7 +231,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #### [↩️](#-menu)
 #
 #
-## Análise de Requisitos de Software com Histórias de Usuários
+## Análise de Requisitos de Software com Histórias de Usuário
 <details>
 <summary>               
  <a>Expandir documento</a>
