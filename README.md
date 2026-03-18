@@ -238,7 +238,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 </summary>
 <a name="Expandir documento"></a>
  
-- [**Análise de Requisitos de Software com Histórias de Usuários**](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53?postPublishedType=repub)
+- [Artigo: **Análise de Requisitos de Software com Histórias de Usuários**](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53?postPublishedType=repub)
 - [**MIRO - Exemple Mappgin: 1 - Cadastro de Usuário:**](https://miro.com/app/board/uXjVG7SqLIQ=/?share_link_id=320655018935)
 - [**MIRO - Exemple Mappgin: 2 - Autenticação de Usuário:**](https://miro.com/app/board/uXjVG7cgm0I=/?share_link_id=800130432112)
 - [**MIRO - Exemple Mappgin: 3 - Publicando Anúncio Gratuito:**](https://miro.com/app/board/uXjVG6pviug=/?share_link_id=82510314114)
