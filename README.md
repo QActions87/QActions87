@@ -70,7 +70,28 @@ Minha transição para QA é embasada em experiência técnica, soft skills e au
 
 Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills, minhas habilidades de comunicação com o mundo do código**. Estou pronto para aplicar este conhecimento e evoluir na prática.
 #
+#
+# Estudando atualmente:
+## Java: 
+![Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
 
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Repositório:**](https://github.com/Motatom0101/curso-desenvolvimento-java)
+
+</details>
+
+#
+#
+## Testando APIs com Postman:
+![JavaScript10](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript&size=48&theme=light&perline=30)
+
+[Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman.
+#
 
 #
 # Projetos: 
@@ -121,14 +142,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #### [↩️](#-menu)
 #
-
-
-## Testando APIs com Postman:
-![JavaScript10](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript&size=48&theme=light&perline=30)
-
-[Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman.
-#
-#### [↩️](#-menu)
 #
 ## Automação de teste Web (UI) Com Cypress, JavaScript e Cucumber (gherkin):
 ![JavaScript11](https://api.devicons.dev.br/icon?icons=Linux%2CCypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
@@ -497,25 +510,6 @@ Veremos os seguintes temas:
 - [Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
 
 </details>
-
-
-#
-#### [↩️](#-menu)
-#
-#
-## Java: 
-![Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [**Repositório:**](https://github.com/Motatom0101/curso-desenvolvimento-java)
-
-</details>
-
 
 #
 #### [↩️](#-menu)
