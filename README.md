@@ -112,9 +112,10 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </details>
 
 #
+#
 #### [↩️](#-menu)
 #
-
+#
 ## CTFL (ISTQB/BSTQB) v4.0
 <details>
 <summary>               
@@ -129,7 +130,9 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </details>
 
 #
+#
 #### [↩️](#-menu)
+#
 #
 ## Estratégia e Técnicas de Testes de Software
 <details>
@@ -143,6 +146,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </details>
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -154,7 +158,9 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 
 #
+#
 #### [↩️](#-menu)
+#
 #
 
 ## Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
@@ -175,7 +181,9 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </details>
 
 #
+#
 #### [↩️](#-menu)
+#
 #
 ## Git/GitHub:
 ![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
@@ -208,6 +216,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -222,6 +231,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -234,6 +244,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -243,6 +254,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 Veremos como abrir bugs usando uma planilha template de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
 
 
+#
 #
 #### [↩️](#-menu)
 #
@@ -264,7 +276,9 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 </details>
 
 #
+#
 #### [↩️](#-menu)
+#
 #
 ## Épicos, Histórias de Usuário e Tarefas no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
@@ -294,6 +308,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 # 
  -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
 
+#
 #
 #### [↩️](#-menu)
 #
@@ -372,6 +387,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 </details>
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -398,6 +414,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 </details>
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -414,6 +431,7 @@ Veremos os seguintes temas:
  - **Códigos documentados** (comentários enxutos e explicativos).
 # 
 
+#
 #
 #### [↩️](#-menu)
 #
@@ -445,6 +463,7 @@ Veremos os seguintes temas:
 
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -463,7 +482,7 @@ Veremos os seguintes temas:
 
 </details>
 
-
+#
 #
 #### [↩️](#-menu)
 #
@@ -490,6 +509,7 @@ Veremos os seguintes temas:
 </details>
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -514,6 +534,7 @@ Veremos os seguintes temas:
 
 </details>
 
+#
 #
 #### [↩️](#-menu)
 #
@@ -550,6 +571,7 @@ Veremos os seguintes temas:
 </details>
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -579,6 +601,7 @@ Veremos os seguintes temas:
 </details>
 
 #
+#
 #### [↩️](#-menu)
 #
 #
@@ -604,6 +627,7 @@ Veremos os seguintes temas:
 
 </details>
 
+#
 #
 #### [↩️](#-menu)
 #
@@ -665,7 +689,9 @@ Veremos os seguintes temas:
 
 💬 [Linkedin](https://www.linkedin.com/in/7iago-m-4a330b1bb/)
 #
+#
 #### [↩️](#-menu)
+#
 #
 
 
