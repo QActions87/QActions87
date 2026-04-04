@@ -4,6 +4,7 @@
 #### 🎯 Menu:
 
 [🔍**Sobre mim**](#-qa-engineer-em-construção--foco-em-shift-left--automação)
+[🔍**Estudando Atualmente**](#estudando-atualmente)
 [🔍**Projetos**](#projetos)
 [🔍**ISO-25010**](#iso-25010)
 [🔍**CTFL**](#ctfl-istqbbstqb-v40)
