@@ -82,7 +82,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </summary>
 <a name="Expandir documento"></a>
  
-- [**Repositório:**](https://github.com/Motatom0101/curso-desenvolvimento-java)  Este repositório hospeda minha evolução na linguagem Java.
+- [**Repositório:**](https://github.com/Motatom0101/curso-desenvolvimento-java)  Este repositório hospeda e registra minha evolução na linguagem Java e consolidação dos fundamentos da programação.
 
 </details>
 
