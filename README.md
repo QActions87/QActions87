@@ -324,6 +324,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 </summary>
 <a name="Expandir documento"></a>
 
+- [**Análise de Riscos**: A Bússola do QA](https://medium.com/@atom.freedom/an%C3%A1lise-de-riscos-a-b%C3%BAssola-do-qa-8a4cbd8281f3)
+
 - [Introdução as **APIs** & **Arquitetura REST**](https://medium.com/@atom.freedom/introdu%C3%A7%C3%A3o-as-apis-arquitetura-rest-33c83159ba6f)
 
 - [**Estratégia e Técnicas** de **Testes de Software**](https://medium.com/@atom.freedom/estrat%C3%A9gia-e-t%C3%A9cnicas-de-testes-de-software-1132db48e66f) 
