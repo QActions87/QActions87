@@ -95,7 +95,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 ## PostgreSQL:
-![PostgreSQL](https://api.devicons.dev.br/icon?icons=LinuxPostgreSQL&size=48&theme=light&perline=30)
+![PostgreSQL](https://api.devicons.dev.br/icon?icons=Linux%2CPostgreSQL&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
