@@ -94,6 +94,21 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman.
 #
 #
+## PostgreSQL:
+![PostgreSQL](https://api.devicons.dev.br/icon?icons=LinuxPostgreSQL&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- []()
+
+</details>
+
+#
+#
 #### [↩️](#-menu)
 #
 #
