@@ -311,7 +311,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
      - **V**: Valuable (de grande valor);
      - **E**: Estimable (estimável);
      - **S**: Small (pequena);
-     - **T**: testable (testável).
+     - **T**: Testable (testável).
        
 #
  -  4º Artigo - [Hierarquias, Estruturas e Rompimento.](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62): Neste artigo veremos sobre Temas, Épicos, Funcionalidades, Histórias de usuários e Tarefas. Compreenderemos a estrutura de cada nível, veremos sobre quebrar histórias de usuários em tarefas, além de dicas de boas práticas como não usar hierarquias complicadas.
