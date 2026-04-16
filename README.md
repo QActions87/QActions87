@@ -103,7 +103,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </summary>
 <a name="Expandir documento"></a>
  
-- []()
+- [**PostgreSQL -I**](https://medium.com/@atom.freedom/postgresql-i-a2d50eb4aa3f)
 
 </details>
 
