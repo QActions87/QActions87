@@ -103,14 +103,17 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 </summary>
 <a name="Expandir documento"></a>
  
-- [**PostgreSQL - I**](https://medium.com/@atom.freedom/postgresql-i-a2d50eb4aa3f)
+- [**PostgreSQL - I**](https://medium.com/@atom.freedom/postgresql-i-a2d50eb4aa3f): Veremos os comandos:
+  - 𝐒𝐄𝐋𝐄𝐂𝐓.
+  - 𝐃𝐈𝐒𝐓𝐈𝐍𝐂𝐓.
+  - 𝐖𝐇𝐄𝐑𝐄.
   
 - [**PostgreSQL - II**](https://medium.com/@atom.freedom/postgresql-ii-a6baf9a6de14): Veremos os comandos:
  
-- DISTINCT,
- - ORDER BY,
- - ORDER BY DESC,
- - LIMIT.
+  - **DISTINCT**,
+  - **ORDER BY**,
+  - **ORDER BY DESC**,
+  - **LIMIT**.
 
 </details>
 
