@@ -36,7 +36,7 @@ Levei um tempo até entender em qual área da tecnologia eu me encaixo melhor. C
 ## 🎯 Meus Pilares de Conhecimento e Estudo
 Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas nos projetos deste perfil:
 
-### 1. Qualidade de Software & Metodologias
+### 1. Qualidade de Software && Metodologias
  - **Fundamentos QA:** Fundamentos de Teste de Software, ISO-25010, Testes Manuais, Técnicas de Teste, Ciclo de Vida do Software (**SDLC**).
 
  - **Requisitos e Escopo:** Análise de Requisitos, Critérios de Aceite, Regras de Negócio, Elaboração de User Stories e linguagem **Gherkin**.
@@ -45,15 +45,14 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - **Metodologia:** conhecimentos sobre o fluxo de trabalho de **times ágeis** com a metodologia **SCRUM & Kanban**.
 
-### 2. Automação de Testes & Linguagens
+### 2. Automação de Testes && Linguagens
  - Automação Web:  **Cypress**.
 
  - Testes em API: **Postman**.
 
- - Linguagens de Programação: **Python**, **JavaScript, HTML/CSS**.
+ - Linguagens de Programação/Script: **Python**, **JavaScript, Java && HTML/CSS**.
 
-### 3. Ferramentas, Infraestrutura & Soft Skills
-Categoria	Habilidades & Ferramentas:
+### 3. Ferramentas, Infraestrutura && Soft Skills
    - **Controle de Versão | CI | Testes de Regressão | Testes Contínuos:**	Git / GitHub / GitHub Actions / Cypress Cloud
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
    - **Infraestrutura:**	Linux, Redes, puTTY, AWS, API
@@ -62,7 +61,7 @@ Categoria	Habilidades & Ferramentas:
    - **Soft Skills Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico, Investigativo e Atenção aos Detalhes.
 #
 #
-## 🔍 Soft Skills e Hard Skills Aplicadas
+## 🔍 Soft Skills && Hard Skills Aplicadas
 Minha transição para QA é embasada em experiência técnica, soft skills e auto percepção do meu perfil profissional. É onde posso me encaixar fazendo o que amo: Lidar com tecnologias de código, exercer pensamento analítico, crítico e investigativo, buscando Erros, Defeitos, Falhas e inconsistências, além do que pode ser feito para agregar mais valor e qualidade para o cliente.
 
  - **Estágio Técnico em Redes (Nov/2024 a Mar/2025):** Atuei no monitoramento de ativos de rede e hosts utilizando Zabbix e Grafana (alertas via WhatsApp). Utilizei Linux para servidores e **Zendesk para gestão de tickets** de ponta a ponta. **Fui o principal ponto de contato entre o time técnico, nossos clientes e seus prestadores de serviços**, garantindo o registro, acompanhamento de SLA  dos tickets com terceiros e feedback ao cliente.
