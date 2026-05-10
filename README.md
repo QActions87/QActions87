@@ -104,31 +104,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 #
 #
-## PostgreSQL:
-![PostgreSQL](https://api.devicons.dev.br/icon?icons=Linux%2CPostgreSQL&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [**PostgreSQL - I**](https://medium.com/@atom.freedom/postgresql-i-a2d50eb4aa3f): Veremos os comandos:
-  - 𝐒𝐄𝐋𝐄𝐂𝐓.
-  - 𝐃𝐈𝐒𝐓𝐈𝐍𝐂𝐓.
-  - 𝐖𝐇𝐄𝐑𝐄.
-  
-- [**PostgreSQL - II**](https://medium.com/@atom.freedom/postgresql-ii-a6baf9a6de14): Veremos os comandos:
- 
-  - **DISTINCT**,
-  - **ORDER BY**,
-  - **ORDER BY DESC**,
-  - **LIMIT**.
-
-</details>
-
-#
-#
 #### [↩️](#-menu)
 #
 #
@@ -644,6 +619,32 @@ Veremos os seguintes temas:
     
 </details>
 
+
+#
+#
+## PostgreSQL:
+![PostgreSQL](https://api.devicons.dev.br/icon?icons=Linux%2CPostgreSQL&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**PostgreSQL - I**](https://medium.com/@atom.freedom/postgresql-i-a2d50eb4aa3f): Veremos os comandos:
+  - 𝐒𝐄𝐋𝐄𝐂𝐓.
+  - 𝐃𝐈𝐒𝐓𝐈𝐍𝐂𝐓.
+  - 𝐖𝐇𝐄𝐑𝐄.
+  
+- [**PostgreSQL - II**](https://medium.com/@atom.freedom/postgresql-ii-a6baf9a6de14): Veremos os comandos:
+ 
+  - **DISTINCT**,
+  - **ORDER BY**,
+  - **ORDER BY DESC**,
+  - **LIMIT**.
+
+</details>
+
 #
 #
 #### [↩️](#-menu)
@@ -673,6 +674,7 @@ Veremos os seguintes temas:
 
 #
 #
+
 #### [↩️](#-menu)
 #
 #
