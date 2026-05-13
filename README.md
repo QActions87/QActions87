@@ -125,6 +125,101 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 # Projetos: 
+#
+#
+## 1º Teste Funcional Manual:
+ - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
+
+   - BDD;
+   - Modelagem de testes;
+   - Execução de testes e evidência;
+   - Status e Report.
+
+Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
+
+#
+#
+#### [↩️](#-menu)
+#
+#
+## Plano de Testes:
+ - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
+
+Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócio e Critérios de Aceite no miro. Depois, montei o plano de testes no Google Sheets. 
+
+Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo, após acessar o link do projeto -> "[Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste)".  
+
+
+#
+#
+#### [↩️](#-menu)
+#
+#
+## Abertura, Gerenciamento e Rastreio de Bugs:
+ - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
+ 
+Veremos como abrir bugs usando uma planilha template de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
+
+
+#
+#
+#### [↩️](#-menu)
+#
+#
+## Análise de Requisitos de Software com Histórias de Usuário
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Artigo:** Análise de Requisitos de Software com Histórias de Usuário](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53?postPublishedType=repub)
+- [**MIRO - Exemple Mappgin: 1 - Cadastro de Usuário:**](https://miro.com/app/board/uXjVG7SqLIQ=/?share_link_id=320655018935)
+- [**MIRO - Exemple Mappgin: 2 - Autenticação de Usuário:**](https://miro.com/app/board/uXjVG7cgm0I=/?share_link_id=800130432112)
+- [**MIRO - Exemple Mappgin: 3 - Publicando Anúncio Gratuito:**](https://miro.com/app/board/uXjVG6pviug=/?share_link_id=82510314114)
+- [**MIRO - Exemple Mappgin: 4 - Publicando Anúncio Pago:**](https://miro.com/app/board/uXjVG6oXDRk=/?share_link_id=254091452541)
+
+ 
+</details>
+
+#
+#
+#### [↩️](#-menu)
+#
+#
+## Épicos, Histórias de Usuário e Tarefas no Scrum:
+ -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
+#
+ -  2º Artigo - [Modelo 3C e Personas em User story](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49): Neste artigo vamos falar um pouco sobre o Modelo 3C, que é uma estrutura simples e eficaz, usada para criar e avaliar User Stories no contexto do Scrum. Além disso, vamos falar sobre o uso de “Personas” e do “Mapa de Empatia”.
+#
+ -  3º Artigo - [User Story e refinamento do backlog em times ágeis](https://medium.com/@atom.free/user-story-e-refinamento-do-backlog-em-times-%C3%A1geis-16abfa8b8e8c): Veremos sobre a simplicidade ao escrever uma User story; veremos como associar às personas — que vimos no artigo anterior — com as User Stories. Também veremos um modelo de escrita, que esteja condizente com o esperado e com exemplos. Além disso, veremos como usar o “Backlog Grooming” para refinar o backlog, preparando-o melhor para às sprints, com auxílio do entendimento do acrônimo “INVEST”, que se refere a um conjunto de critérios para avaliar a qualidade de histórias de usuário (ou itens do backlog), garantindo que elas sejam bem definidas, claras e que estejam prontas para o desenvolvimento.
+
+     - **I**: Independet (indepennte);
+     - **N**: Negotiable (negociável);
+     - **V**: Valuable (de grande valor);
+     - **E**: Estimable (estimável);
+     - **S**: Small (pequena);
+     - **T**: Testable (testável).
+       
+#
+ -  4º Artigo - [Hierarquias, Estruturas e Rompimento.](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62): Neste artigo veremos sobre Temas, Épicos, Funcionalidades, Histórias de usuários e Tarefas. Compreenderemos a estrutura de cada nível, veremos sobre quebrar histórias de usuários em tarefas, além de dicas de boas práticas como não usar hierarquias complicadas.
+# 
+ -  5º Artigo - [Implementando tarefas com SMART](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc): Agora, entenderemos como implementar e refinar nossas tarefas com o acrônimo SMART.
+
+     - **S**: Specific (específico);
+     - **M**: Measurable (mensurável);
+     - **A**: Achievable (realizável);
+     - **R**: Relevant (relevante);
+     - **T**: Time-boxed (duração fixa).
+
+# 
+ -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
+
+#
+#
+#### [↩️](#-menu)
+#
+#
 ## Modelo de Qualidade de Software — ISO 25010
 <details>
 <summary>               
@@ -230,99 +325,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 #### [↩️](#-menu)
-#
-#
-## 1º Teste Funcional:
- - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
-   - BDD;
-   - Modelagem de testes;
-   - Execução de testes e evidência;
-   - Status e Report.
-
-Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
-
-#
-#
-#### [↩️](#-menu)
-#
-#
-## Plano de Testes:
- - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
-
-Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócio e Critérios de Aceite no miro. Depois, montei o plano de testes no Google Sheets. 
-
-Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo, após acessar o link do projeto -> "[Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste)".  
-
-
-#
-#
-#### [↩️](#-menu)
-#
-#
-## Abertura, Gerenciamento e Rastreio de Bugs:
- - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
- 
-Veremos como abrir bugs usando uma planilha template de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
-
-
-#
-#
-#### [↩️](#-menu)
-#
-#
-## Análise de Requisitos de Software com Histórias de Usuário
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [**Artigo:** Análise de Requisitos de Software com Histórias de Usuário](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53?postPublishedType=repub)
-- [**MIRO - Exemple Mappgin: 1 - Cadastro de Usuário:**](https://miro.com/app/board/uXjVG7SqLIQ=/?share_link_id=320655018935)
-- [**MIRO - Exemple Mappgin: 2 - Autenticação de Usuário:**](https://miro.com/app/board/uXjVG7cgm0I=/?share_link_id=800130432112)
-- [**MIRO - Exemple Mappgin: 3 - Publicando Anúncio Gratuito:**](https://miro.com/app/board/uXjVG6pviug=/?share_link_id=82510314114)
-- [**MIRO - Exemple Mappgin: 4 - Publicando Anúncio Pago:**](https://miro.com/app/board/uXjVG6oXDRk=/?share_link_id=254091452541)
-
- 
-</details>
-
-#
-#
-#### [↩️](#-menu)
-#
-#
-## Épicos, Histórias de Usuário e Tarefas no Scrum:
- -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
-#
- -  2º Artigo - [Modelo 3C e Personas em User story](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49): Neste artigo vamos falar um pouco sobre o Modelo 3C, que é uma estrutura simples e eficaz, usada para criar e avaliar User Stories no contexto do Scrum. Além disso, vamos falar sobre o uso de “Personas” e do “Mapa de Empatia”.
-#
- -  3º Artigo - [User Story e refinamento do backlog em times ágeis](https://medium.com/@atom.free/user-story-e-refinamento-do-backlog-em-times-%C3%A1geis-16abfa8b8e8c): Veremos sobre a simplicidade ao escrever uma User story; veremos como associar às personas — que vimos no artigo anterior — com as User Stories. Também veremos um modelo de escrita, que esteja condizente com o esperado e com exemplos. Além disso, veremos como usar o “Backlog Grooming” para refinar o backlog, preparando-o melhor para às sprints, com auxílio do entendimento do acrônimo “INVEST”, que se refere a um conjunto de critérios para avaliar a qualidade de histórias de usuário (ou itens do backlog), garantindo que elas sejam bem definidas, claras e que estejam prontas para o desenvolvimento.
-
-     - **I**: Independet (indepennte);
-     - **N**: Negotiable (negociável);
-     - **V**: Valuable (de grande valor);
-     - **E**: Estimable (estimável);
-     - **S**: Small (pequena);
-     - **T**: Testable (testável).
-       
-#
- -  4º Artigo - [Hierarquias, Estruturas e Rompimento.](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62): Neste artigo veremos sobre Temas, Épicos, Funcionalidades, Histórias de usuários e Tarefas. Compreenderemos a estrutura de cada nível, veremos sobre quebrar histórias de usuários em tarefas, além de dicas de boas práticas como não usar hierarquias complicadas.
-# 
- -  5º Artigo - [Implementando tarefas com SMART](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc): Agora, entenderemos como implementar e refinar nossas tarefas com o acrônimo SMART.
-
-     - **S**: Specific (específico);
-     - **M**: Measurable (mensurável);
-     - **A**: Achievable (realizável);
-     - **R**: Relevant (relevante);
-     - **T**: Time-boxed (duração fixa).
-
-# 
- -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
-
-#
-#
-#### [↩️](#-menu)
 #
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
