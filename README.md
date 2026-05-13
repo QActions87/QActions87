@@ -14,7 +14,7 @@
 [🔍**Git/GitHub**](#gitgithub)
 [🔍**SQL**](#sql-no-bigquery-gcp-google-cloud-plataform)
 [🔍**Redes** & **monitoramento**](#redes-e-monitoramento-zabbix)
-[🔍**Cursos Realizados** e **Certificados**](#-principais-cursos-que-realizei)
+[🔍**Cursos Realizados** e **Certificados**](#-principais-cursos-que-realizei-certificados)
 [🔍**Contato**](#portfólio-e-contato-profissional)
 
 #
