@@ -19,7 +19,7 @@
 
 #
 #
-### 🛠 Principais Ferramentas com as quais trabalhei 🛠:
+### 🛠 Principais Ferramentas com as quais Trabalhei 🛠:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CGithubActions%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CPostgreSQL%2CMySQL%2CPostman%2CCypress%2CGherkin%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
 #
@@ -71,7 +71,7 @@ Minha transição para QA é embasada em experiência técnica, soft skills e au
 Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills, minhas habilidades de comunicação com o mundo do código**. Estou pronto para aplicar este conhecimento e evoluir na prática.
 #
 #
-# Estudando atualmente:
+# Estudando Atualmente:
 ## Java: 
 ![Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
 
