@@ -52,17 +52,18 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - Linguagens de Programação/Script: **Python**, **JavaScript, Java && HTML/CSS**.
 
-### 3. Ferramentas, Infraestrutura && Soft Skills
+### 3. Ferramentas, Infraestrutura
    - **Controle de Versão | CI | Testes de Regressão | Testes Contínuos:**	Git / GitHub / GitHub Actions / Cypress Cloud
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
    - **Infraestrutura:**	Linux, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
    - **Gestão de Tickets:**	Zendesk 
-   - **Soft Skills Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico, Investigativo e Atenção aos Detalhes.
+   
 #
 #
 ## 🔍 Soft Skills && Hard Skills Aplicadas
 Minha transição para QA é embasada em experiência técnica, soft skills e auto percepção do meu perfil profissional. É onde posso me encaixar fazendo o que amo: Lidar com tecnologias de código, exercer pensamento analítico, crítico e investigativo, buscando Erros, Defeitos, Falhas e inconsistências, além do que pode ser feito para agregar mais valor e qualidade para o cliente.
+ - **Soft Skills Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico, Investigativo e Atenção aos Detalhes.
 
  - **Estágio Técnico em Redes (Nov/2024 a Mar/2025):** Atuei no monitoramento de ativos de rede e hosts utilizando Zabbix e Grafana (alertas via WhatsApp). Utilizei Linux para servidores e **Zendesk para gestão de tickets** de ponta a ponta. **Fui o principal ponto de contato entre o time técnico, nossos clientes e seus prestadores de serviços**, garantindo o registro, acompanhamento de SLA  dos tickets com terceiros e feedback ao cliente.
 
