@@ -50,12 +50,12 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - Testes em API: **Postman**.
 
- - Linguagens de Programação/Script: **Python**, **JavaScript, Java && HTML/CSS**.
+ - Linguagens de Programação/Script: **Java**, **Python**, **JavaScript**, **HTML/CSS**.
 
 ### 3. Ferramentas, Infraestrutura
    - **Controle de Versão | CI | Testes de Regressão | Testes Contínuos:**	Git / GitHub / GitHub Actions / Cypress Cloud
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
-   - **Infraestrutura:**	Linux, Redes, puTTY, AWS, API
+   - **Infraestrutura:**	**Linux**, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
    - **Gestão de Tickets:**	Zendesk 
    
