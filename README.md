@@ -99,9 +99,9 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  
 - [Repositório 01:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com **testes em APIs com Postman** e suas **principais features**.
 
-- [Repositório 02: **Projeto do manual à automação no CI/CD com GitHub Action**](https://github.com/QActions87/serveRestAPIProject/tree/main). Além de alguns projetos, aqui entenderemos alguns conceitos e estruturas como o **JSON e HTTP** mais a fundo.
+- [Repositório 02: **Projeto do manual à automação no CI/CD com GitHub Action**](https://github.com/QActions87/serveRestAPIProject/tree/main).  Criação de **testes de API do manual ao CI/CD utilizando Postman, newman e newman-htmlextra**.
 
-- [Repositório 03: **Projeto Manual**](https://github.com/QActions87/Dominando-Postman-Do-Teste-Manual-a-Performance-APIs/tree/main). Criação de **testes de API do manual ao CI/CD utilizando Postman, newman e newman-htmlextra**.
+- [Repositório 03: **Projeto Manual**](https://github.com/QActions87/Dominando-Postman-Do-Teste-Manual-a-Performance-APIs/tree/main).  Além do projeto, aqui entenderemos alguns conceitos e estruturas como o **JSON e HTTP** mais a fundo.
 
 </details>
 
