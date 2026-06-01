@@ -143,9 +143,81 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 </details>
 
+
 #
 #
 #### [↩️](#-menu)
+#
+#
+## Automação de teste Web (UI) Com Cypress, JavaScript e Cucumber (gherkin):
+![JavaScript11](https://api.devicons.dev.br/icon?icons=Linux%2CCypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
+
+  - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
+
+ - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
+
+#
+#
+#### [↩️](#-menu)
+#
+#
+
+## Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
+
+![GitHubActions](https://api.devicons.dev.br/icon?icons=Linux%2CGit%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — I: Introdução ao GitHub Actions.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-i-fa8ccdefd17c)
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — II: Integrando com Cypress Cloud.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-ii-67ba9bb67fb4?postPublishedType=initial)
+- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — III: Pipeline Multi-Browser.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-iii-pipeline-multi-brower-2ed1060e07d9)
+- [**Repositório**](https://github.com/QActions87/cypress-github-actions/actions)
+
+</details>
+
+#
+#
+#### [↩️](#-menu)
+#
+#
+## Git/GitHub:
+![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
+
+- [Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
+
+- [Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
+  
+- [Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
+
+- [Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
+
+- [Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
+
+- [Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
+
+- [Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
+
+- [Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
+
+</details>
+
+
+#
+#
+#### [↩️](#-menu)
+
 #
 #
 ## 1º Teste Funcional Manual:
@@ -271,81 +343,6 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 - [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial) 
  
 </details>
-
-#
-#
-
-#### [↩️](#-menu)
-#
-#
-## Automação de teste Web (UI) Com Cypress, JavaScript e Cucumber (gherkin):
-![JavaScript11](https://api.devicons.dev.br/icon?icons=Linux%2CCypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
-
-  - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
-
- - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
-
-#
-#
-#### [↩️](#-menu)
-#
-#
-
-## Testes de Regressão com Testes contínuos  em Cypress no GitHub Actions
-
-![GitHubActions](https://api.devicons.dev.br/icon?icons=Linux%2CGit%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — I: Introdução ao GitHub Actions.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-i-fa8ccdefd17c)
-- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — II: Integrando com Cypress Cloud.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-ii-67ba9bb67fb4?postPublishedType=initial)
-- [**Testes contínuos em Cypress no Github Actions e Cypress Cloud — III: Pipeline Multi-Browser.**](https://medium.com/@atom.freedom/testes-cont%C3%ADnuos-em-cypress-no-github-actions-e-cypress-cloud-iii-pipeline-multi-brower-2ed1060e07d9)
-- [**Repositório**](https://github.com/QActions87/cypress-github-actions/actions)
-
-</details>
-
-#
-#
-#### [↩️](#-menu)
-#
-#
-## Git/GitHub:
-![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
-
-- [Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
-
-- [Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
-  
-- [Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
-
-- [Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
-
-- [Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
-
-- [Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
-
-- [Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
-
-- [Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
-
-</details>
-
-
-#
-#
-#### [↩️](#-menu)
 
 #
 #
