@@ -130,6 +130,23 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 # Projetos: 
 #
 #
+## Testando APIs Rest com Postman:
+![JavaScript100](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+
+- [Repositório 01: **Projeto do manual à automação no CI/CD com GitHub Action**](https://github.com/QActions87/serveRestAPIProject/tree/main).  Criação de **testes de API do manual ao CI/CD utilizando Postman, newman e newman-htmlextra**.
+
+- [Repositório 02: **Projeto Manual**](https://github.com/QActions87/Dominando-Postman-Do-Teste-Manual-a-Performance-APIs/tree/main).  Além do projeto documentado no Medium, aqui entenderemos alguns conceitos e estruturas como o **JSON e HTTP** mais a fundo.
+
+</details>
+
+#
+#
 ## 1º Teste Funcional Manual:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
