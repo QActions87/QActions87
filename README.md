@@ -89,7 +89,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 ## Testando APIs com Postman:
-![JavaScript100](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript&size=48&theme=light&perline=30)
+![JavaScript100](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
