@@ -409,7 +409,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
   
 - [Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
 
-- **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
+
 
 </details>
 
