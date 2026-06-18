@@ -72,6 +72,91 @@ Minha transição para QA é embasada em experiência técnica, soft skills e au
 Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills, minhas habilidades de comunicação com o mundo do código**. Estou pronto para aplicar este conhecimento e evoluir na prática.
 #
 #
+#### [↩️](#-menu)
+#
+#
+# 📚 Documentação do meu aprendizado 🧑‍💻:
+No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024**, mantenho um acervo que já conta **mais de 120 artigos técnicos**, documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais **artigos e projetos**, **divididos por temas**:
+#
+## 🐞🔍 Artigos sobre QA 🐞🔍:
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+
+- [**DoD, DoR** e o Papel do **QA no Shift-Left**](https://medium.com/@atom.freedom/dod-dor-e-o-papel-do-qa-no-shift-left-a633f53da477)
+
+- [**Análise de Riscos**: A Bússola do QA](https://medium.com/@atom.freedom/an%C3%A1lise-de-riscos-a-b%C3%BAssola-do-qa-8a4cbd8281f3)
+
+- [Introdução as **APIs** & **Arquitetura REST**](https://medium.com/@atom.freedom/introdu%C3%A7%C3%A3o-as-apis-arquitetura-rest-33c83159ba6f)
+
+- [**Estratégia e Técnicas** de **Testes de Software**](https://medium.com/@atom.freedom/estrat%C3%A9gia-e-t%C3%A9cnicas-de-testes-de-software-1132db48e66f) 
+ 
+- [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial)
+
+- [CTFL (ISTQB/BSTQB) v4.0 — **Objetivos do Teste**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-afb1f486e847?postPublishedType=repub)
+
+- [Modelo de Qualidade de Software — **ISO 25010**](https://medium.com/@atom.freedom/modelo-de-qualidade-de-software-iso-25010-a822a8bdd571?postPublishedType=initial)
+
+- [**ISO 25010 & 29119**](https://medium.com/p/25d79172f153?postPublishedType=initial)
+
+- [**SDLC + DevOps**](https://medium.com/p/0db329411bbf?postPublishedType=initial)
+ 
+- [**POM (Page Object Model)**](https://medium.com/@atom.free/pom-page-object-model-cec4c7d7d6b9)
+
+- [**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
+
+- [Os **7 Princípios do Teste** de Software](https://medium.com/@atom.free/os-7-princ%C3%ADpios-do-teste-de-software-d38b1aa1c30e)
+
+- [**Teste Funcional Manual**](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf)
+
+- [**Teste de Software Manual**: Do Planejamento à Execução — Os 7 Princípios do Teste de Software.](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-os-7-princ%C3%ADpios-do-teste-de-software-319f05763e9f)
+
+- [**Teste de Software Manual**: Do Planejamento à Execução — **Metodologia ágil Scrum** e o papel do QA em Times ágeis](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-metodologia-%C3%A1gil-scrum-e-o-papel-do-qa-em-73e6d2c9b50b)
+
+- [O que é uma **História de Usuário?**](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af)
+
+- [**Modelo 3C** e **Personas** em **User story**](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49)
+
+- [User Story e **refinamento do backlog** em times ágeis](https://medium.com/@atom.free/user-story-e-refinamento-do-backlog-em-times-%C3%A1geis-16abfa8b8e8c)
+
+- [O **Manifesto Ágil** e **Estratégias de Teste** de Software no Ágil.](https://medium.com/@atom.free/o-manifesto-%C3%A1gil-e-estrat%C3%A9gias-de-teste-de-software-no-%C3%A1gil-17b267a59d2a)
+
+- [Construindo um **Processo de Teste no Ágil**](https://medium.com/@atom.free/construindo-um-processo-de-teste-no-%C3%A1gil-56bc3b2c4e68)
+
+- [**Criação de uma Funcionalidade de um Produto** em Um Time Ágil](https://medium.com/@atom.free/itens-da-cria%C3%A7%C3%A3o-de-uma-funcionalidade-de-um-produto-em-um-time-%C3%A1gil-211c8187c76d)
+
+- [**Upstream**, na prática!](https://medium.com/@atom.free/upstream-na-pr%C3%A1tica-a743d043032f)
+
+- [Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
+
+- [**Hierarquias, Estruturas e Rompimento.(Épicos, Funcionalidades, User Story e Tarefas)**](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62)
+
+- [Implementando **tarefas com SMART**](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc)
+
+- [**Mapeamento de Users Stories**](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1)
+
+- [**Como Dominar a Qualidade do Software** do Início ao Fim — parte 1: O que é Qualidade e Teste de Software.](https://medium.com/@atom.free/como-dominar-a-qualidade-do-software-do-in%C3%ADcio-ao-fim-parte-1-o-que-%C3%A9-qualidade-e-teste-de-6c41bb9477fc)
+
+- [**Plano de Testes — Parte 1**](https://medium.com/@atom.free/plano-de-testes-parte-1-59bc66157e52)
+
+- [**Plano de Testes — Parte 2**](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
+
+- [**Plano de Testes — Parte 3: Na Prática**](https://medium.com/@atom.free/plano-de-testes-parte-3-na-pr%C3%A1tica-c38c2b4fa4a3)
+
+- [**Gerenciamento de Bugs/Bug tracking Part 1**](https://medium.com/@atom.free/bug-tracking-part-1-3107299c17e8)
+
+- [**Gerenciamento de Bugs/Bug tracking Part 2**](https://medium.com/@atom.free/bug-tracking-part-2-d29f08257710)
+
+</details>
+
+#
+#
+#### [↩️](#-menu)
+#
+#
 # Estudando Atualmente:
 ## Java: 
 ![Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
@@ -305,85 +390,6 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 
 - [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial) 
  
-</details>
-
-#
-#
-# 📚 Documentação do meu aprendizado 🧑‍💻:
-No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024**, mantenho um acervo que já conta **mais de 120 artigos técnicos**, documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais artigos, divididos por temas:
-#
-## 🐞🔍 Artigos sobre QA 🐞🔍:
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
-
-- [**DoD, DoR** e o Papel do **QA no Shift-Left**](https://medium.com/@atom.freedom/dod-dor-e-o-papel-do-qa-no-shift-left-a633f53da477)
-
-- [**Análise de Riscos**: A Bússola do QA](https://medium.com/@atom.freedom/an%C3%A1lise-de-riscos-a-b%C3%BAssola-do-qa-8a4cbd8281f3)
-
-- [Introdução as **APIs** & **Arquitetura REST**](https://medium.com/@atom.freedom/introdu%C3%A7%C3%A3o-as-apis-arquitetura-rest-33c83159ba6f)
-
-- [**Estratégia e Técnicas** de **Testes de Software**](https://medium.com/@atom.freedom/estrat%C3%A9gia-e-t%C3%A9cnicas-de-testes-de-software-1132db48e66f) 
- 
-- [CTFL (ISTQB/BSTQB) v4.0 — **TESTE e DEPURAÇÃO**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-teste-e-depura%C3%A7%C3%A3o-8c30523325ac?postPublishedType=initial)
-
-- [CTFL (ISTQB/BSTQB) v4.0 — **Objetivos do Teste**](https://medium.com/@atom.freedom/ctfl-istqb-bstqb-v4-0-afb1f486e847?postPublishedType=repub)
-
-- [Modelo de Qualidade de Software — **ISO 25010**](https://medium.com/@atom.freedom/modelo-de-qualidade-de-software-iso-25010-a822a8bdd571?postPublishedType=initial)
-
-- [**ISO 25010 & 29119**](https://medium.com/p/25d79172f153?postPublishedType=initial)
-
-- [**SDLC + DevOps**](https://medium.com/p/0db329411bbf?postPublishedType=initial)
- 
-- [**POM (Page Object Model)**](https://medium.com/@atom.free/pom-page-object-model-cec4c7d7d6b9)
-
-- [**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
-
-- [Os **7 Princípios do Teste** de Software](https://medium.com/@atom.free/os-7-princ%C3%ADpios-do-teste-de-software-d38b1aa1c30e)
-
-- [**Teste Funcional Manual**](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf)
-
-- [**Teste de Software Manual**: Do Planejamento à Execução — Os 7 Princípios do Teste de Software.](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-os-7-princ%C3%ADpios-do-teste-de-software-319f05763e9f)
-
-- [**Teste de Software Manual**: Do Planejamento à Execução — **Metodologia ágil Scrum** e o papel do QA em Times ágeis](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-metodologia-%C3%A1gil-scrum-e-o-papel-do-qa-em-73e6d2c9b50b)
-
-- [O que é uma **História de Usuário?**](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af)
-
-- [**Modelo 3C** e **Personas** em **User story**](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49)
-
-- [User Story e **refinamento do backlog** em times ágeis](https://medium.com/@atom.free/user-story-e-refinamento-do-backlog-em-times-%C3%A1geis-16abfa8b8e8c)
-
-- [O **Manifesto Ágil** e **Estratégias de Teste** de Software no Ágil.](https://medium.com/@atom.free/o-manifesto-%C3%A1gil-e-estrat%C3%A9gias-de-teste-de-software-no-%C3%A1gil-17b267a59d2a)
-
-- [Construindo um **Processo de Teste no Ágil**](https://medium.com/@atom.free/construindo-um-processo-de-teste-no-%C3%A1gil-56bc3b2c4e68)
-
-- [**Criação de uma Funcionalidade de um Produto** em Um Time Ágil](https://medium.com/@atom.free/itens-da-cria%C3%A7%C3%A3o-de-uma-funcionalidade-de-um-produto-em-um-time-%C3%A1gil-211c8187c76d)
-
-- [**Upstream**, na prática!](https://medium.com/@atom.free/upstream-na-pr%C3%A1tica-a743d043032f)
-
-- [Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
-
-- [**Hierarquias, Estruturas e Rompimento.(Épicos, Funcionalidades, User Story e Tarefas)**](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62)
-
-- [Implementando **tarefas com SMART**](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc)
-
-- [**Mapeamento de Users Stories**](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1)
-
-- [**Como Dominar a Qualidade do Software** do Início ao Fim — parte 1: O que é Qualidade e Teste de Software.](https://medium.com/@atom.free/como-dominar-a-qualidade-do-software-do-in%C3%ADcio-ao-fim-parte-1-o-que-%C3%A9-qualidade-e-teste-de-6c41bb9477fc)
-
-- [**Plano de Testes — Parte 1**](https://medium.com/@atom.free/plano-de-testes-parte-1-59bc66157e52)
-
-- [**Plano de Testes — Parte 2**](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
-
-- [**Plano de Testes — Parte 3: Na Prática**](https://medium.com/@atom.free/plano-de-testes-parte-3-na-pr%C3%A1tica-c38c2b4fa4a3)
-
-- [**Gerenciamento de Bugs/Bug tracking Part 1**](https://medium.com/@atom.free/bug-tracking-part-1-3107299c17e8)
-
-- [**Gerenciamento de Bugs/Bug tracking Part 2**](https://medium.com/@atom.free/bug-tracking-part-2-d29f08257710)
-
 </details>
 
 #
