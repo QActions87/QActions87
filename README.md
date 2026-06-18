@@ -192,23 +192,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 #
 #
-## Estratégia e Técnicas de Testes de Software
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [**DoD, DoR** e o Papel do **QA no Shift-Left**](https://medium.com/@atom.freedom/dod-dor-e-o-papel-do-qa-no-shift-left-a633f53da477)
-
-- [**Análise de Riscos**: A Bússola do QA](https://medium.com/@atom.freedom/an%C3%A1lise-de-riscos-a-b%C3%BAssola-do-qa-8a4cbd8281f3)
-  
-- [**Estratégia e Técnicas** de **Testes de Software**](https://medium.com/@atom.freedom/estrat%C3%A9gia-e-t%C3%A9cnicas-de-testes-de-software-1132db48e66f) 
- 
-</details>
-
-#
-#
 #### [↩️](#-menu)
 #
 # Projetos: 
