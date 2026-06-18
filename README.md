@@ -415,7 +415,6 @@ Veremos os seguintes temas:
 
  - **Lógica de Programação**;
  - **Orientação a Objetos**;
- - **Fundamentos de JavaScript Funcional**[Cod3r];
  - **JavaScript moderno**;
  - **Códigos documentados** (comentários enxutos e explicativos).
 # 
