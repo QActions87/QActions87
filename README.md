@@ -737,7 +737,7 @@ Veremos os seguintes temas:
 ##### 🌐Portfólio e contato profissional:
 📚 [Medium](https://medium.com/@atom.freedom)
 
-💬 [Linkedin](https://www.linkedin.com/in/7iago-m-4a330b1bb/)
+💬 [Linkedin](https://www.linkedin.com/in/qa-yaacov/)
 #
 #
 #### [↩️](#-menu)
