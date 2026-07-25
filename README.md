@@ -627,7 +627,7 @@ Veremos os seguintes temas:
 #
 #
 ## PostgreSQL:
-![PostgreSQL](https://api.devicons.dev.br/icon?icons=Linux%2CPostgreSQL&size=48&theme=light&perline=30)
+![PostgreSQL102](https://api.devicons.dev.br/icon?icons=Linux%2CPostgreSQL&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
