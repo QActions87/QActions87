@@ -159,7 +159,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 # Estudando Atualmente:
 ## Java: 
-![Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
+![Java777](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -174,7 +174,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 #
 ## Testando APIs com Postman:
-![JavaScript100](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
+![JavaScript1234](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -196,7 +196,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 # Projetos: 
 ## Testando APIs Rest com Postman:
-![JavaScript100](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
+![JavaScript10001](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
