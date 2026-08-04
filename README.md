@@ -188,8 +188,11 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 #
 #
-## Testando APIs com Postman:
-![JavaScript1234](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
+#### [↩️](#-menu)
+#
+# Projetos: 
+## Testando APIs Rest com Postman:
+![JavaScript12304](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -209,28 +212,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 #### [↩️](#-menu)
 #
-# Projetos: 
-## Testando APIs Rest com Postman:
-![JavaScript10001](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>Expandir documento</a>
-</summary>
-<a name="Expandir documento"></a>
-
-- [Repositório 01: **Projeto do manual à automação no CI/CD com GitHub Action**](https://github.com/QActions87/serveRestAPIProject/tree/main).  Criação de **testes de API do manual ao CI/CD utilizando Postman, newman e newman-htmlextra**.
-
-- [Repositório 02: **Projeto Manual**](https://github.com/QActions87/Dominando-Postman-Do-Teste-Manual-a-Performance-APIs/tree/main).  Além do projeto documentado no Medium, aqui entenderemos alguns conceitos e estruturas como o **JSON e HTTP** mais a fundo.
-
-</details>
-
 #
-#
-#### [↩️](#-menu)
-#
-#
-
 ## Testes de Regressão com Testes contínuos de UI em Cypress no GitHub Actions
 
 ![GitHubActions](https://api.devicons.dev.br/icon?icons=Linux%2CGit%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
