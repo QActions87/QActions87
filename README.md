@@ -173,6 +173,21 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 #
 #
+## Java com Selenium: 
+![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CSelenium%2CMaven&size=48&theme=dark&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Repositório_01:**](https://github.com/QActions87/java-selenium-automation/tree/main)  Este repositório contém o 1º projeto de automação de testes de interface do usuário (UI), desenvolvido como etapa introdutória e consolidativa dos conceitos fundamentais de testes automatizados Web com Java, Selenium 3 e JUnit 4.
+
+</details>
+
+#
+#
 ## Testando APIs com Postman:
 ![JavaScript1234](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
