@@ -57,7 +57,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
    - **Infraestrutura:**	**Linux**, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
-   - **Gestão de Tickets:**	Zendesk 
+   - **Gestão de Tickets:**	Zendesk. 
    
 #
 #
