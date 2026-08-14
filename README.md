@@ -85,7 +85,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
  <a>Expandir documento</a>
 </summary>
 <a name="Expandir documento"></a>
-
+ 
+- [**Análise de Requisitos de Software com Histórias de Usuários**](https://medium.com/@atom.freedom/an%C3%A1lise-de-requisitos-de-software-com-hist%C3%B3rias-de-usu%C3%A1rios-f41546b3af53)
 - [**DoD, DoR** e o Papel do **QA no Shift-Left**](https://medium.com/@atom.freedom/dod-dor-e-o-papel-do-qa-no-shift-left-a633f53da477)
 
 - [**Análise de Riscos**: A Bússola do QA](https://medium.com/@atom.freedom/an%C3%A1lise-de-riscos-a-b%C3%BAssola-do-qa-8a4cbd8281f3)
