@@ -1,7 +1,7 @@
 #
 # 🧑‍💻 Olá! Sou o Tiago. 👋
 #
-#### 🎯 Menu:
+#### 🎯 Menu :
 
 [🔍**Sobre mim**](#-qa-engineer-em-construção--foco-em-shift-left--automação)
 [🔍**Estudando Atualmente**](#estudando-atualmente)
