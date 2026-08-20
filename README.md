@@ -183,7 +183,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 </summary>
 <a name="Expandir documento"></a>
  
-- [**Repositório_01:**](https://github.com/QActions87/java-selenium-automation/tree/main)  Este repositório contém o 1º projeto de automação de testes de interface do usuário (UI), desenvolvido como etapa introdutória e consolidativa dos conceitos fundamentais de testes automatizados Web com Java, Selenium 3 e JUnit 4.
+- [**Projeto_01:**](https://github.com/QActions87/java-selenium-automation/tree/main) 1º projeto de automação de testes de interface do usuário (UI), desenvolvido com Java, Selenium 3 e JUnit 4.
 
 </details>
 
