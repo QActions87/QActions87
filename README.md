@@ -174,6 +174,10 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 #
 #
+#### [↩️](#-menu)
+#
+# Projetos: 
+#
 ## Java com Selenium - Teste de UI:
 ![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CSelenium%2CMaven&size=48&theme=dark&perline=30)
 
@@ -191,7 +195,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 #### [↩️](#-menu)
 #
-# Projetos: 
+#
 ## Testando APIs Rest com Postman:
 ![JavaScript12304](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
