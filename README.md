@@ -692,6 +692,8 @@ Veremos os seguintes temas:
  <a>Expandir documento</a>
 </summary>
 <a name="Expandir documento"></a>
+ 
+- [**Testes Automatizados** - Curso completo com **Selenium e Java**](https://www.udemy.com/certificate/UC-35d388f6-fad2-46be-ab8e-7a0b8a478041/)
 
 - [Como Dominar a **Qualidade do Software** do Início ao Fim](https://www.udemy.com/certificate/UC-ca96743a-bf01-4ecc-a252-54b574432db6/)
 
