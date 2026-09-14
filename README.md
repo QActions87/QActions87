@@ -722,6 +722,8 @@ Veremos os seguintes temas:
  <a>Expandir documento</a>
 </summary>
 <a name="Expandir documento"></a>
+
+- [**Automação de Testes de API com Java e RestAssured**](https://www.udemy.com/certificate/UC-3f682d32-2348-4715-a9b1-db06f5192367/)
  
 - [**Testes Automatizados** - Curso completo com **Selenium e Java**](https://www.udemy.com/certificate/UC-35d388f6-fad2-46be-ab8e-7a0b8a478041/)
 
