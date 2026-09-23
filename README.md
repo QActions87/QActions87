@@ -46,11 +46,11 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
  - **Metodologia:** conhecimentos sobre o fluxo de trabalho de **times ágeis** com a metodologia **SCRUM & Kanban**.
 
 ### 2. Automação de Testes && Linguagens
- - Automação Web:  **Selenium**, **Cypress**.
+ - Automação Web:  **Selenium**, Cypress.
 
- - Testes em API: **Postman**.
+ - Testes em API: **REST-Assured / Postman**.
 
- - Linguagens de Programação/Script: **Java**, **Python**, **JavaScript**, **HTML/CSS**.
+ - Linguagens de Programação/Script: **Java**, Python, JavaScript, HTML/CSS.
 
 ### 3. Ferramentas, Infraestrutura
    - **Controle de Versão | CI | Testes Contínuos:**	Git / GitHub / GitHub Actions / Cypress Cloud
