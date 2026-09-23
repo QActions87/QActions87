@@ -54,7 +54,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
 ### 3. Ferramentas, Infraestrutura
    - **Controle de Versão | CI | Testes Contínuos:**	Git / GitHub / GitHub Actions
-   - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
+   - **Banco de Dados:**	Noções de SQL (PostgreSQL), BigQuery (GCP) e MySQL
    - **Infraestrutura:**	**Linux**, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
    - **Gestão de Tickets:**	Zendesk. 
