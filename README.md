@@ -53,7 +53,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
  - Linguagens de Programação/Script: **Java**, Python, JavaScript, HTML/CSS.
 
 ### 3. Ferramentas, Infraestrutura
-   - **Controle de Versão | CI | Testes Contínuos:**	Git / GitHub / GitHub Actions / Cypress Cloud
+   - **Controle de Versão | CI | Testes Contínuos:**	Git / GitHub / GitHub Actions
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
    - **Infraestrutura:**	**Linux**, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
